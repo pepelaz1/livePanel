@@ -1,0 +1,1 @@
+Implementation of live (moving and sizing) panel control in VB.NET 
